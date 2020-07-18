@@ -1,12 +1,11 @@
-<img src="https://bitrebels.com/wp-content/uploads/2010/02/floor_tiles.jpg" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif" />
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Multi-Paxos implementation in Rust.
-- 🌱 I’m currently learning Docker, DevOps, Distributed Systems.
-- 👯 I’m looking to collaborate on projects regarding climate action.
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif" />
+- 🔭 Working on a Multi-Paxos implementation in Rust.
+- 🌱 Learning Docker, DevOps, Distributed Systems.
+- 👯 Open to collaborate on projects regarding climate action.
+- 💼 Pursuing a M.Sc. in Computer Science.
 
 **Languages and Tools**
 
