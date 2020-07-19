@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 Working on a Multi-Paxos implementation in Rust.
-- 🌱 Learning Docker, DevOps, Distributed Systems.
+- 🌱 Learning DevOps, Distributed Systems, Scala, Go.
 - 👯 Open to collaborate on projects regarding climate action.
 - 💼 Pursuing a M.Sc. in Computer Science.
 
