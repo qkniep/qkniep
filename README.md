@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! 👋 I'm [Quentin](https://quentinkniep.com).</h3>
+<h3 align="center">Hi there! 👋 I'm <a href="https://quentinkniep.com">Quentin</a>.</h3>
 <p align="center">
 	Systems Design | Full Stack | Cyber Security | Big Data
 </p>
@@ -26,28 +26,31 @@
 
 **📚 Currently Learning**
 
-<img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Grafana-f46800?style=for-the-badge&logo=Grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Prometheus-e6522c?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Scala-dc322f?style=for-the-badge&logo=Scala&logoColor=white"/>
-<br />
+<p>
+	<img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+	<img src="https://img.shields.io/badge/-Grafana-f46800?style=for-the-badge&logo=Grafana&logoColor=white">
+	<img src="https://img.shields.io/badge/-Prometheus-e6522c?style=for-the-badge&logo=Prometheus&logoColor=white">
+	<img src="https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=Go&logoColor=white">
+	<img src="https://img.shields.io/badge/-Scala-dc322f?style=for-the-badge&logo=Scala&logoColor=white">
+</p>
 <br />
 
 **💻 My Tech Stack**
 
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C%2b%2b-00599c?style=for-the-badge&logo=C%2b%2b&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Postgre-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Zsh-000000?style=for-the-badge&logo=Gnu-Bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Neovim-57a143?style=for-the-badge&logo=Neovim&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Arch-1793d1?style=for-the-badge&logo=Arch-Linux&logoColor=white"/>
+<p>
+	<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
+	<img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
+	<img src="https://img.shields.io/badge/-C%2b%2b-00599c?style=for-the-badge&logo=C%2b%2b&logoColor=white">
+	<img src="https://img.shields.io/badge/-Postgre-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
+	<img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white">
+	<img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white">
+	<img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white">
+	<img src="https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white">
+	<img src="https://img.shields.io/badge/-Zsh-000000?style=for-the-badge&logo=Gnu-Bash&logoColor=white">
+	<img src="https://img.shields.io/badge/-Neovim-57a143?style=for-the-badge&logo=Neovim&logoColor=white">
+	<img src="https://img.shields.io/badge/-Arch-1793d1?style=for-the-badge&logo=Arch-Linux&logoColor=white">
+</p>
 
 ![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&show_icons=true&hide_border=true&theme=vue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkniep&layout=compact&hide_border=true&theme=vue)
