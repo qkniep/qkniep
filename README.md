@@ -41,7 +41,7 @@
 	<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
 	<img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/-C%2b%2b-00599c?style=for-the-badge&logo=C%2b%2b&logoColor=white">
-	<img src="https://img.shields.io/badge/-Postgre-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 	<img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
 	<img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white">
 	<img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white">
