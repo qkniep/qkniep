@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! 👋 I'm <a href="https://quentinkniep.com">Quentin</a>.</h3>
+<h3 align="center"><a href="https://quentinkniep.com">Quentin M. Kniep</a></h3>
 <p align="center">
 	Systems Design | Full Stack | Cyber Security | Big Data
 </p>
