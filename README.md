@@ -28,8 +28,8 @@
 
 <p>
 	<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+	<img src="https://img.shields.io/badge/-Redis-d382d?style=for-the-badge&logo=Redis&logoColor=white">
 	<img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-	<img src="https://img.shields.io/badge/-Grafana-f46800?style=for-the-badge&logo=Grafana&logoColor=white">
 	<img src="https://img.shields.io/badge/-Prometheus-e6522c?style=for-the-badge&logo=Prometheus&logoColor=white">
 	<img src="https://img.shields.io/badge/-Concourse-3398dc?style=for-the-badge&logo=Concourse&logoColor=white">
 	<img src="https://img.shields.io/badge/-Scala-dc322f?style=for-the-badge&logo=Scala&logoColor=white">
@@ -43,6 +43,7 @@
 	<img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=Go&logoColor=white">
 	<img src="https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/-Grafana-f46800?style=for-the-badge&logo=Grafana&logoColor=white">
 	<img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
 	<img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white">
 	<img src="https://img.shields.io/badge/-JS-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black">
