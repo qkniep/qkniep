@@ -40,7 +40,9 @@
 
 <p>
 	<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
+	<img src="https://img.shields.io/badge/-C%2B%2B-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
+	<img src="https://img.shields.io/badge/-Java-ec2025?style=for-the-badge&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=Go&logoColor=white">
 	<img src="https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 	<img src="https://img.shields.io/badge/-Grafana-f46800?style=for-the-badge&logo=Grafana&logoColor=white">
