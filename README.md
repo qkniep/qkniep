@@ -57,5 +57,5 @@
 	<img src="https://img.shields.io/badge/-Arch-1793d1?style=for-the-badge&logo=Arch-Linux&logoColor=white">
 </p>
 
-![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&show_icons=true&hide_border=true&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkniep&layout=compact&hide_border=true&theme=vue)
+![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkniep&layout=compact&langs_count=6&hide_border=true&theme=vue)
