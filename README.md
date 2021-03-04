@@ -54,7 +54,7 @@
 	<img src="https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white">
 	<img src="https://img.shields.io/badge/-Zsh-000000?style=for-the-badge&logo=Gnu-Bash&logoColor=white">
 	<img src="https://img.shields.io/badge/-Neovim-57a143?style=for-the-badge&logo=Neovim&logoColor=white">
-	<img src="https://img.shields.io/badge/-Manjaro-35bf5c?style=for-the-badge&logo=Manjaro-Linux&logoColor=white">
+	<img src="https://img.shields.io/badge/-Manjaro-35bf5c?style=for-the-badge&logo=Manjaro&logoColor=white">
 </p>
 
 ![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue)
