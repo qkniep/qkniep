@@ -27,7 +27,7 @@
 **📚 Currently Learning**
 
 <p>
-	<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+	<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next-dot-js&logoColor=white">
 	<img src="https://img.shields.io/badge/-Redis-dc382d?style=for-the-badge&logo=Redis&logoColor=white">
 	<img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 	<img src="https://img.shields.io/badge/-Prometheus-e6522c?style=for-the-badge&logo=Prometheus&logoColor=white">
