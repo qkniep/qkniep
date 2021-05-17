@@ -33,6 +33,7 @@
 	<img src="https://img.shields.io/badge/-Prometheus-e6522c?style=for-the-badge&logo=Prometheus&logoColor=white">
 	<img src="https://img.shields.io/badge/-Concourse-3398dc?style=for-the-badge&logo=Concourse&logoColor=white">
 	<img src="https://img.shields.io/badge/-Scala-dc322f?style=for-the-badge&logo=Scala&logoColor=white">
+	<img src="https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </p>
 <br />
 
