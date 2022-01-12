@@ -1,6 +1,6 @@
 <h3 align="center"><a href="https://quentinkniep.com">Quentin M. Kniep</a></h3>
 <p align="center">
-	Systems Design | Full Stack | Cyber Security | Big Data
+	Distributed Systems | IT Security | Networking | Full Stack
 </p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/qkniep" style="margin: 0 0.5rem">
@@ -18,11 +18,11 @@
 
 <p align="center"></p>
 
-🔭 Working on a Multi-Paxos implementation in Rust.
+🔭 Working on Blockchain related projects
 <br />
-🌱 Open to collaborate on Climate Action projects.
+🌱 Open to collaborate on Climate Action projects
 <br />
-🏫 Pursuing a M.Sc. in Computer Science.
+🏫 Pursuing a PhD in Distributed Computing
 
 **📚 Currently Learning**
 
