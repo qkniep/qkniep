@@ -14,7 +14,7 @@
 	</a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif" />
+<img align="right" alt="screenshot of my setup" width="50%" src="https://github.com/qkniep/dotfiles/blob/main/screenshot.png" />
 
 <p align="center"></p>
 
@@ -27,12 +27,8 @@
 **📚 Currently Learning**
 
 <p>
-	<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next-dot-js&logoColor=white">
-	<img src="https://img.shields.io/badge/-Redis-dc382d?style=for-the-badge&logo=Redis&logoColor=white">
-	<img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-	<img src="https://img.shields.io/badge/-Prometheus-e6522c?style=for-the-badge&logo=Prometheus&logoColor=white">
+	<img src="https://img.shields.io/badge/-Fresh-FFD80B?style=for-the-badge&logo=Deno&logoColor=black">
 	<img src="https://img.shields.io/badge/-Concourse-3398dc?style=for-the-badge&logo=Concourse&logoColor=white">
-	<img src="https://img.shields.io/badge/-Scala-dc322f?style=for-the-badge&logo=Scala&logoColor=white">
 	<img src="https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </p>
 <br />
@@ -41,21 +37,20 @@
 
 <p>
 	<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
-	<img src="https://img.shields.io/badge/-C%2B%2B-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
-	<img src="https://img.shields.io/badge/-Java-ec2025?style=for-the-badge&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=Go&logoColor=white">
-	<img src="https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-	<img src="https://img.shields.io/badge/-Grafana-f46800?style=for-the-badge&logo=Grafana&logoColor=white">
-	<img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
-	<img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white">
-	<img src="https://img.shields.io/badge/-JS-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black">
+	<img src="https://img.shields.io/badge/-C%2B%2B-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/-PSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
+	<img src="https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&logo=CSS3&logoColor=white">
+	<img src="https://img.shields.io/badge/-TS-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 	<img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white">
 	<img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white">
 	<img src="https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white">
-	<img src="https://img.shields.io/badge/-Zsh-000000?style=for-the-badge&logo=Gnu-Bash&logoColor=white">
-	<img src="https://img.shields.io/badge/-Neovim-57a143?style=for-the-badge&logo=Neovim&logoColor=white">
-	<img src="https://img.shields.io/badge/-Manjaro-35bf5c?style=for-the-badge&logo=Manjaro&logoColor=white">
+	<img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
+	<img src="https://img.shields.io/badge/-Fish-000000?style=for-the-badge&logo=GNOME-Terminal&logoColor=white">
+	<img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">
+	<img src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
 </p>
 
 ![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue)
