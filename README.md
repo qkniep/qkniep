@@ -3,15 +3,10 @@
 	Distributed Systems | IT Security | Networking | Full Stack
 </p>
 <p align="center">
-	<a href="https://www.linkedin.com/in/qkniep" style="margin: 0 0.5rem">
-		<img width="24" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-	</a>
-	<a href="https://twitter.com/qkniep" style="margin: 0 0.5rem">
-		<img width="24" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
-	</a>
-	<a href="https://www.instagram.com/qkniep" style="margin: 0 0.5rem">
-		<img width="24" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-	</a>
+	Also find me on:
+	<a href="https://www.linkedin.com/in/qkniep">LindedIn</a>,
+	<a href="https://twitter.com/qkniep">Twitter</a>,
+	<a href="https://www.instagram.com/qkniep">Instagram</a>
 </p>
 
 <img align="right" alt="screenshot of my setup" width="50%" src="https://github.com/qkniep/dotfiles/blob/main/screenshot.png" />
@@ -29,7 +24,6 @@
 <p>
 	<img src="https://img.shields.io/badge/-Fresh-FFD80B?style=for-the-badge&logo=Deno&logoColor=black">
 	<img src="https://img.shields.io/badge/-Concourse-3398dc?style=for-the-badge&logo=Concourse&logoColor=white">
-	<img src="https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </p>
 <br />
 
