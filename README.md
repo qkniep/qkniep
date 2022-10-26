@@ -9,7 +9,7 @@
 	<a href="https://www.instagram.com/qkniep">Instagram</a>
 </p>
 
-<img align="right" alt="screenshot of my setup" width="50%" src="https://github.com/qkniep/dotfiles/blob/main/screenshot.png" />
+<img align="right" alt="screenshot of my setup" width="60%" src="https://github.com/qkniep/dotfiles/blob/main/screenshot.png" />
 
 <p align="center"></p>
 
