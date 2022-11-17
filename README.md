@@ -47,5 +47,5 @@
 	<img src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
 </p>
 
-![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkniep&layout=compact&langs_count=6&hide_border=true&theme=vue)
+![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkniep&layout=compact&langs_count=6&hide_border=true&theme=gruvbox)
