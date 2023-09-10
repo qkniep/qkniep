@@ -11,16 +11,17 @@
 
 <a href="https://github.com/qkniep/dotfiles"><img align="right" alt="screenshot of my setup" width="60%" src="https://github.com/qkniep/dotfiles/blob/main/screenshot.png" /></a>
 
-<p align="center"></p>
-
+<span width="40%">
 🔭 Working on Blockchain related projects
 <br />
 🌱 Open to collaborate on Climate Action projects
 <br />
 🏫 Pursuing a PhD in Distributed Computing
-
+<br />
+<br />
+	
 **📚 Currently Learning**
-
+	
 <p>
 	<img src="https://img.shields.io/badge/-Nix-5277C3?style=for-the-badge&logo=NixOS&logoColor=white">
 	<img src="https://img.shields.io/badge/-OCaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=white">
@@ -50,6 +51,7 @@
 	<img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
 	<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
 </p>
+</span>
 
 ![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkniep&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=gruvbox)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkniep&layout=compact&langs_count=6&hide_border=true&theme=gruvbox)
